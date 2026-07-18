@@ -1,4 +1,4 @@
-# Mayanks notes
+# Mayank's notes
 https://bugs-sleep-6uj.craft.me/agentic3
 
 It contains links for Mayank GPT (Chatbot for answering doubts), Github link, instructions, notes from the class. 
