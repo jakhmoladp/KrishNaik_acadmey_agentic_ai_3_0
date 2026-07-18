@@ -1,7 +1,7 @@
 # Mayank's notes
 https://bugs-sleep-6uj.craft.me/agentic3
 
-It contains links for Mayank GPT (Chatbot for answering doubts), Github link, instructions, notes from the class. 
+It contains links for Mayank GPT (Chatbot for answering doubts), Github link, instructions, collab links and notes from the class. 
 
 # Github repo
 https://github.com/mayank953/Live-Class-2026#
