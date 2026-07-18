@@ -8,5 +8,7 @@ https://github.com/mayank953/Live-Class-2026#
 
 # Recordings of sessions
 Step 1: https://learn.krishnaikacademy.com/web/courses
+
 Step 2: Search course name "Agentic AI & AgentOps Specialization Bootcamp 3.0 with Cloud"
+
 Step 3: In the content section, choose "Live Session". You will find all the recording of previous sessions.
