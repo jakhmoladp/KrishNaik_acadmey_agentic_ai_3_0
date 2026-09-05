@@ -7,6 +7,7 @@
 ---
 
 ## 📰 Quick Updates
+
 - 📚 All notes, code, and a class summary continue to be updated on GitHub, alongside a dedicated revision notebook for MCP created specifically to consolidate everything covered so far.
 - 🎯 **Today's scope:** a full recap of MCP fundamentals, followed by genuinely new material — MCP Primitives, the MCP Lifecycle, and a deep dive into JSON-RPC as the protocol underneath it all.
 - 🧭 The philosophy behind spending this much time on MCP was restated plainly: understanding it this deeply is what separates someone who can *use* an MCP connector from someone who can walk into a Google- or Amazon-level interview and explain how to *build* one that scales to millions of users.
