@@ -21,6 +21,7 @@ https://github.com/mayank953/Live-Class-2026#
 - Step 3: In the content section, choose "Live Session". You will find all the recordings of previous sessions.
 
 # Useful Repos or Projects from students
+- *Compilation of notes, code and projects in a netify app* by Mayank Chugh: https://agentticai-3-0.netlify.app/
 - *End-to-End Production-Grade LLM Serving with vLLM on Azure AKS* by Sikha Singh  : https://youtu.be/EyXzfnAxCdA?si=oOhAYmH52kdKf6Vu
 - *LangChain Learning Repo* by Shivam Pasricha : https://github.com/pasrichashivam/langchain-learning
 - *Python-based AI agents built with FastAPI and LangChain* by Ankit Sharma: https://github.com/sharmankit23/agent-repo
